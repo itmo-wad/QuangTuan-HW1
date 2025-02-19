@@ -8,8 +8,6 @@ This project is a personal portfolio website built with HTML, Alpine.js, and Tai
   <img width="1000" src="./public/images/profile.png" alt="profile">
 </div>
 
----
-
 ## Features
 
 - **Dark Mode:**  
@@ -25,8 +23,6 @@ This project is a personal portfolio website built with HTML, Alpine.js, and Tai
 - **Backend Serving (ExpressJS):**
   - **Basic:** Serve static profile page at the default route (`/`) along with static assets (CSS, images).
   - **Advanced:** Render the profile page dynamically using EJS with parameters at `/profile` and redirect the default route (`/`) to `/profile`.
-
----
 
 ## Technologies Used
 
